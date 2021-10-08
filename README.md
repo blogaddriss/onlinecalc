@@ -1,2 +1,2 @@
 # onlinecalc
-Online calculator in web browser
+Онлайн калькулятор в веб браузере
